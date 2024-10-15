@@ -1,0 +1,9 @@
+Mun Hashtable
+A proof-of-concept macro-based generic hashtable in C. Untested in production
+as of yet.
+
+USAGE
+Add hashtable.h and hashtable.c to a project.
+
+DOCUMENTATION
+See hashtable.h and example directory.
